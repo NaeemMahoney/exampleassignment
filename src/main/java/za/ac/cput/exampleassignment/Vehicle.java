@@ -1,5 +1,9 @@
 package za.ac.cput.exampleassignment;
 
+/**
+ * Tye
+ */
+
 public class Vehicle {
 
     private String make, model;
